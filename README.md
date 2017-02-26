@@ -48,3 +48,11 @@ Mobile application overview and how-to apply in [BoxShop](https://boxshop.vn) de
 * W5,6: kick-off -> beta
 * W7,8: launch
 * 2W -> release
+
+## License
+
+MIT licensed
+
+Copyright (C) 2016 Lam Thai, http://boxshop.vn
+
+[Presentation](https://boxshop.github.io/slide-ionic-in-actions/#/) powered by [reveal.js](https://github.com/hakimel/reveal.js)
